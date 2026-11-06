@@ -1,0 +1,4 @@
+/home/user/Bureau/3 eme cycle/big data/ubber/simulator/simulator.py:188: DeprecationWarning: key_serializer does not implement kafka.serializer.Serializer
+  main()
+/home/user/Bureau/3 eme cycle/big data/ubber/simulator/simulator.py:188: DeprecationWarning: value_serializer does not implement kafka.serializer.Serializer
+  main()
